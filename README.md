@@ -1,8 +1,8 @@
-🎬 Movie Seat Booking
+## 🎬 Movie Seat Booking
 A simple and interactive movie seat booking application built with HTML, CSS, and JavaScript.
 This project allows users to select a movie, choose seats, and see the total price in real-time.
 
-📌 Features
+## 📌 Features
 🎥 Select a Movie – Choose from multiple movie options with different ticket prices.
 
 💺 Interactive Seat Selection – Click to select or deselect seats.
@@ -13,14 +13,14 @@ This project allows users to select a movie, choose seats, and see the total pri
 
 🎨 Responsive UI – Works well on desktop and mobile devices.
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 HTML – Structure of the application.
 
 CSS – Styling for seats, layout, and responsiveness.
 
 JavaScript – Logic for seat selection, price calculation, and data persistence.
 
-🚀 How to Run Locally
+## 🚀 How to Run Locally
 Clone the repository
 
 bash
@@ -36,7 +36,7 @@ cd movie-seat-booking
 Open index.html in your browser
 No server needed – just open the file!
 
-📂 Project Structure
+## 📂 Project Structure
 bash
 Copy
 Edit
@@ -46,6 +46,8 @@ movie-seat-booking/
 │── script.js         # JavaScript logic
 │── README.md         # Project documentation
 │── /screenshots      # App screenshots
-📜 License
+
+
+## 📜 License
 This project is licensed under the MIT License – feel free to use and modify it.
 
